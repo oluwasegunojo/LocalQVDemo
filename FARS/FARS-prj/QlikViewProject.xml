@@ -1,4 +1,4 @@
-<!-- Last project change: 2016-11-27 14:43:13 (2016-11-27 13:43:13) -->
+﻿<!-- Last project change: 2016-11-27 15:15:34 (2016-11-27 14:15:34) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -3518,16 +3518,16 @@
       </ChildObjects>
     </PrjSheetProperties>
     <PrjSheetProperties>
-      <SheetId>Document\sl-6725_faraz_sheet</SheetId>
+      <SheetId>Document\sl-6725_segun_sheet</SheetId>
       <IsActive>true</IsActive>
       <ChildObjects>
         <PrjFrameParentDef>
-          <ObjectId>Document\CH73_324610464</ObjectId>
+          <ObjectId>Document\CH73_456371984</ObjectId>
           <Rect>
-            <Left>484</Left>
-            <Top>128</Top>
-            <Width>825</Width>
-            <Height>1125</Height>
+            <Left>594</Left>
+            <Top>250</Top>
+            <Width>1378</Width>
+            <Height>1063</Height>
           </Rect>
           <MinimizedRect>
             <Left>0</Left>
@@ -3541,16 +3541,16 @@
       </ChildObjects>
     </PrjSheetProperties>
     <PrjSheetProperties>
-      <SheetId>Document\SH17_724838073</SheetId>
-      <IsActive>true</IsActive>
+      <SheetId>Document\sl-6725_faraz_sheet</SheetId>
+      <IsActive>false</IsActive>
       <ChildObjects>
         <PrjFrameParentDef>
-          <ObjectId>Document\CH73_456371984</ObjectId>
+          <ObjectId>Document\CH73_324610464</ObjectId>
           <Rect>
-            <Left>594</Left>
-            <Top>250</Top>
-            <Width>1378</Width>
-            <Height>1063</Height>
+            <Left>484</Left>
+            <Top>128</Top>
+            <Width>825</Width>
+            <Height>1125</Height>
           </Rect>
           <MinimizedRect>
             <Left>0</Left>
