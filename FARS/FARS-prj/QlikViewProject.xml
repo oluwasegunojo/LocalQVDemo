@@ -1,4 +1,4 @@
-﻿<!-- Last project change: 2016-11-27 17:38:36 (2016-11-27 16:38:36) -->
+﻿<!-- Last project change: 2016-11-27 17:50:58 (2016-11-27 16:50:58) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -3565,13 +3565,36 @@
     </PrjSheetProperties>
     <PrjSheetProperties>
       <SheetId>Document\sl-6726_faraz_sheet</SheetId>
-      <IsActive>true</IsActive>
+      <IsActive>false</IsActive>
       <ChildObjects>
         <PrjFrameParentDef>
           <ObjectId>Document\CH74_837309545</ObjectId>
           <Rect>
             <Left>228</Left>
             <Top>188</Top>
+            <Width>1516</Width>
+            <Height>1016</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>0</ZedLevel>
+        </PrjFrameParentDef>
+      </ChildObjects>
+    </PrjSheetProperties>
+    <PrjSheetProperties>
+      <SheetId>Document\sl-6727_segun_sheet</SheetId>
+      <IsActive>true</IsActive>
+      <ChildObjects>
+        <PrjFrameParentDef>
+          <ObjectId>Document\CH75_553768664</ObjectId>
+          <Rect>
+            <Left>588</Left>
+            <Top>241</Top>
             <Width>1516</Width>
             <Height>1016</Height>
           </Rect>
